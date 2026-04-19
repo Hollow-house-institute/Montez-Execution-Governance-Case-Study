@@ -1,7 +1,1 @@
-date,day,resistance,completion,delay_sec,duration_min,s_correct,p_correct,n_correct,clean_names,notes
-2026-04-18,1,medium,yes,?,15,unknown,unknown,unknown,0,baseline resistance but completed
-2026-04-18,2,medium,yes,?,15,unknown,unknown,unknown,0,continued with some resistance
-2026-04-18,3,medium,yes,?,15,weak,weak,weak,0,drift but returned multiple attempts
-2026-04-18,4,high,yes,?,20,weak,weak,weak,0,high resistance hid then returned and completed
-2026-04-19,5,low,yes,10,15,1,1,1,1,less friction, completed, 1 clean name
-2026-04-19,5,low,yes,10,15,1,1,1,1,less friction, completed, 1 clean name
+date,day,resistance,completion,time_to_start_sec,duration_min,s_correct,p_correct,n_correct,clean_names,notes
