@@ -16,3 +16,8 @@ Data:
 
 Observation:
 Behavior changes under consistent constraint over time.
+
+## Enforcement Statement
+
+Authority is enforced through explicit Decision Boundaries, escalation thresholds, and Stop Authority conditions.
+
